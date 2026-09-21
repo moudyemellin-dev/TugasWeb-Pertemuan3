@@ -37,13 +37,10 @@ Website diuji pada:
 - Tablet: 768px
 - Desktop: 1440px
 
-## Link Demo
-
-🌐 [Buka Website Tugas 3 Katalog Produk Responsif](https://moudyemellin-dev.github.io/pemrograman-web/Pertemuan%203/)
 ## Mata Kuliah
 
 Pemrograman Web
 
-## Tugas
+## Link Demo
 
-Tugas Rutin 3
+🌐 [Buka Website Tugas 3 Katalog Produk Responsif](https://moudyemellin-dev.github.io/pemrograman-web/Pertemuan%203/)
