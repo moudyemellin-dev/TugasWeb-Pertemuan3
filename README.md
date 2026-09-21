@@ -1,6 +1,4 @@
-# Tugas Rutin 3 Pemrograman Web
-
-## Katalog Produk Responsif
+## Tugas Rutin 3 Pemrograman Web - Katalog Produk Responsif
 
 Website katalog produk responsif menggunakan Bootstrap 5.
 
